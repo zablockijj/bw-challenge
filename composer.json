@@ -1,0 +1,13 @@
+{
+    "name": "vagrant/bw-challenge",
+    "authors": [
+        {
+            "name": "Justin Zablocki",
+            "email": "zablockijj@gmail.com"
+        }
+    ],
+    "require": {},
+    "require-dev": {
+        "phpunit/phpunit": "3.7.*"
+    }
+}
