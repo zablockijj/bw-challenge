@@ -2,7 +2,7 @@
 Finds if a string is balanced via braces.
 
 ### Requirements:
-- PHP 7.0+
+- PHP 5.4+
 - Composer
 
 ### To test:

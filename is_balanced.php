@@ -6,7 +6,7 @@
  * @param string $string
  * @return int
  */
-function isBalanced(string $string) : int
+function isBalanced($string)
 {
     $open = [];
 
