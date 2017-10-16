@@ -1,6 +1,8 @@
 <?php
 
 /**
+ * This method takes a string and determines if it is balanced
+ *
  * @param string $string
  * @return int
  */

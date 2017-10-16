@@ -1,9 +1,9 @@
 <?php
 
 require_once __DIR__.'/vendor/autoload.php';
-require './is_balanced.php';
+require __DIR__.'/is_balanced.php';
 
-class StackTest extends PHPUnit_Framework_TestCase
+class BalancingTest extends PHPUnit_Framework_TestCase
 {
     /**
      * @return void
